@@ -3,4 +3,4 @@ project(DEV210x)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DEV210x VariablesAndConstants/Variables.cpp)
+add_executable(DEV210x VariablesAndConstants/Variables.cpp VariablesAndConstants/constants.cpp)
