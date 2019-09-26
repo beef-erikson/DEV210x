@@ -4,3 +4,4 @@
 ## Variables and constants
 [Variables](https://github.com/beef-erikson/DEV210x/blob/master/VariablesAndConstants/Variables.cpp)<br />
 [Constants](https://github.com/beef-erikson/DEV210x/blob/master/VariablesAndConstants/Constants.cpp)<br />
+[Type Conversions](https://github.com/beef-erikson/DEV210x/blob/master/VariablesAndConstants/TypeConversion.cpp)<br />
