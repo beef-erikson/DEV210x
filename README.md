@@ -20,3 +20,4 @@
 
 ## Repetition Statements
 [for Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/ForLoops.cpp)<br />
+[while Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/WhileLoops.cpp)<br />
