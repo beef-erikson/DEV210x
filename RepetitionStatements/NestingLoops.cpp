@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    bool alternate = true;
+    bool alternate{true};
 
     for (int x = 0; x < 8; ++x)
     {
