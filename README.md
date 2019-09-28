@@ -19,3 +19,4 @@
 [Ternary Operator](https://github.com/beef-erikson/DEV210x/blob/master/ControlStatements/TernaryOperator.cpp)<br />
 
 ## Repetition Statements
+[for Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/ForLoops.cpp)<br />
