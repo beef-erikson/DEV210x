@@ -17,3 +17,5 @@
 [if / else if/ else Statements](https://github.com/beef-erikson/DEV210x/blob/master/ControlStatements/IfStatements.cpp)<br />
 [switch Statements](https://github.com/beef-erikson/DEV210x/blob/master/ControlStatements/SwitchStatements.cpp)<br />
 [Ternary Operator](https://github.com/beef-erikson/DEV210x/blob/master/ControlStatements/TernaryOperator.cpp)<br />
+
+## Repetition Statements
