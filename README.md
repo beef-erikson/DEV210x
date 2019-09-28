@@ -22,3 +22,4 @@
 [for Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/ForLoops.cpp)<br />
 [while Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/WhileLoops.cpp)<br />
 [do Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/DoLoops.cpp)<br />
+[Nesting Loops](https://github.com/beef-erikson/DEV210x/blob/master/RepetitionStatements/NestingLoops.cpp)<br />
