@@ -6,6 +6,8 @@
 
 using namespace std;
 
+/* Uncomment to use - here for build purposes
+
 // do always runs at least once, termination defined in the while at end
 int main()
 {
@@ -21,3 +23,5 @@ int main()
 
     return 0;
 }
+
+*/
