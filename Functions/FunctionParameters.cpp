@@ -3,14 +3,11 @@
 //
 
 #include <iostream>
+#include "FunctionSum.h"
 
 using namespace std;
 
-/* Uncomment to use - here for build purposes
-
-// defined in FunctionSum.cpp
-int Sum(int a, int b);
-int Sum(int a, int b, int c);
+/*
 
 int main()
 {
