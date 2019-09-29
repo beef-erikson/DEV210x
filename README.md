@@ -32,3 +32,4 @@
 ## Classes
 [Creating Classes](https://github.com/beef-erikson/DEV210x/blob/master/IntroducingClasses/CreatingClasses.cpp)<br />
 [Initializing Classes](https://github.com/beef-erikson/DEV210x/blob/master/IntroducingClasses/InitializingClasses.cpp)<br />
+[More Initializing Examples](https://github.com/beef-erikson/DEV210x/blob/master/IntroducingClasses/MoreInitializing.cpp)<br />
