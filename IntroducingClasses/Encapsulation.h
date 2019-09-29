@@ -5,7 +5,6 @@
 #ifndef DEV210X_ENCAPSULATION_H
 #define DEV210X_ENCAPSULATION_H
 
-
 class Encapsulation {
 // constructors
 public:
@@ -41,6 +40,5 @@ private:
     int m_width;
     int m_height;
 };
-
 
 #endif //DEV210X_ENCAPSULATION_H
