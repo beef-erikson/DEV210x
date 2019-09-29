@@ -7,7 +7,7 @@
 
 using namespace std;
 
-/*
+/* Uncomment to use - here for build purposes
 
 int main()
 {
