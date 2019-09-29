@@ -26,3 +26,4 @@
 
 ## Functions
 [Function Parameters](https://github.com/beef-erikson/DEV210x/blob/master/Functions/FunctionParameters.cpp)<br />
+[Inline Functions](https://github.com/beef-erikson/DEV210x/blob/master/Functions/InlineFunctions.cpp)<br />
