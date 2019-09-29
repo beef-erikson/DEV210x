@@ -3,21 +3,14 @@
 //
 
 #include <iostream>
-#include <string>
 
 using namespace std;
 
 /* Uncomment to use - here for build purposes
 
-int Sum(int a, int b)
-{
-    return a + b;
-}
-
-int Sum(int a, int b, int c)
-{
-    return a + b + c;
-}
+// defined in FunctionSum.cpp
+int Sum(int a, int b);
+int Sum(int a, int b, int c);
 
 int main()
 {

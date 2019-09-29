@@ -17,8 +17,8 @@ inline void swap (int& a, int& b)
 
 int main()
 {
-    int a = 5;
-    int b = 8;
+    int a{ 5 };
+    int b{ 8 };
 
     swap(a, b);
 

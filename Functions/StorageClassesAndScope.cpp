@@ -19,7 +19,7 @@ int main()
     // thread_local keyword - identifier is only accessible on the thread which it is created. Prevents sharing
     // of the identifier across multiple threads in same application. (C++ 11 standard)
 
-    int total = 0;
+    int total{ 0 };
 
     for (int i = 0; i <= 10; i++)
     {
